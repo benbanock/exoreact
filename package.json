@@ -1,0 +1,10 @@
+{
+  "name": "exoreact",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "benoit morin <benoit.morin@hec.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
