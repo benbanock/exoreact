@@ -5,7 +5,7 @@
   "author": "benoit morin <benoit.morin@hec.edu>",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "webpack-cli": "^3.3.8"
   },
   "devDependencies": {
